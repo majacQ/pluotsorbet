@@ -8,7 +8,7 @@
     "node-firefox-install-app": "^1.0.0",
     "node-firefox-launch-app": "^1.0.1",
     "node-firefox-uninstall-app": "^1.0.0",
-    "system": "^0.1.0",
+    "system": "^2.0.1",
     "node-firefox-connect": "^1.2.0",
     "node-firefox-find-app": "^1.0.0",
     "node-firefox-find-devices": "^1.0.0",
